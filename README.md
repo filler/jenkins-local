@@ -15,6 +15,5 @@ Also included are
 
 #### Setup Jenkins
     $ cp jenkins-local/vagrant.key ~/.jenkins
-    $ cp jenkins-local/yale-mvn-app-installer.hpi ~/.jenkins
-    $ # In Jenkins, add the YMAI Plugin 
+    $ cp jenkins-local/yale-mvn-app-installer.hpi ~/.jenkins/jenkins-home/plugins
 
